@@ -115,7 +115,7 @@ import {
           name: "Terms & Services",
           link: "https://www.hoobank.com/terms-and-services/",
         },
-      ],
+      ], 
     },
     {
       title: "Community",
