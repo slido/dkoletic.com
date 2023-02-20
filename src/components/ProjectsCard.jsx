@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 
-import styles from "../style";
 import { fadeIn } from "../utils/motion";
 
 const ProjectsCard = ({
@@ -48,6 +47,7 @@ const ProjectsCard = ({
           </a> */}
           <a
             href={git}
+            rel="noreferrer"
             target="_blank"
             className="w-[50%] border-[#fff] p-[5px] border-solid  border-[1px] rounded-[10px] flex justify-center"
           >

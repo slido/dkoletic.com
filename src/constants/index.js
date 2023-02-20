@@ -1,6 +1,4 @@
-import {   star,
-    menu,
-    close,
+import { 
     linkedin,  } from "../assets";
   
   export const navLinks = [
@@ -77,7 +75,6 @@ import {   star,
       content:
         "Writng CSS without writing CSS <3.",
     },
-    ,
     {
       id: "feature-6",
       icon: "./material.png",

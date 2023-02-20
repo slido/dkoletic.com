@@ -89,7 +89,7 @@ const CTA = () => {
                   role="alert"
                   className="absolute right-0 xs:left-0 text-[11px] text-[red]"
                 >
-                  {errors.userEmail.message == "required"
+                  {errors.userEmail.message === "required"
                     ? "* Email is required"
                     : errors.userEmail.message}
                 </p>
