@@ -1,15 +1,27 @@
 {
   "name": "dkoletic.com",
-  "version": "0.1.0",
+  "version": "1.0",
   "private": true,
   "dependencies": {
+    "@emailjs/browser": "^3.10.0",
+    "@splinetool/react-spline": "^2.2.5",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-hook-form": "^7.43.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "autoprefixer": "^10.4.7",
+    "framer-motion": "^9.0.2",
+    "postcss": "^8.4.14",
+    "react-typist-component": "^1.0.5",
+    "tailwindcss": "^3.2.7"
   },
   "scripts": {
     "start": "react-scripts start",
