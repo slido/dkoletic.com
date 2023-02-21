@@ -38,13 +38,16 @@ const ProjectsCard = ({
           {description}
         </p>
         <div className="flex w-[20%] justify-start mt-[10px]">
-          {/* <a
-            href={link}
-            target="_blank"
-            className="w-[50%] border-[#fff] border-solid p-[5px] border-[1px] rounded-[10px] flex justify-center"
-          >
-            Web
-          </a> */}
+          {link && (
+            <a
+              href={link}
+              rel="noreferrer"
+              target="_blank"
+              className="w-[50%] border-[#fff] border-solid p-[5px] mr-[10px] border-[1px] rounded-[10px] flex justify-center"
+            >
+              Web
+            </a>
+          )}
           <a
             href={git}
             rel="noreferrer"

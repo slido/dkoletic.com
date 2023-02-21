@@ -34,7 +34,7 @@ import {
       imgUrl: '/work2.jpg',
       title: 'Landing Page - Figma to React',
       description: 'A landing page example, sliced from Figma design, using Tailwind CSS.',
-      link: "https://figma-to-react-production.up.railway.app/",
+      link: "https://figma-to-react-omega.vercel.app/",
       git:"https://github.com/slido/figma-to-react"
     },
   ];
