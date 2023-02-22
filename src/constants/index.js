@@ -66,7 +66,7 @@ import {
       icon: "./nextjs1.png",
       title: "NextJS",
       content:
-        "For non admin type websites best solution wiht server rendered pages for better SEO results.",
+        "For non admin type websites best solution with server rendered pages for better SEO results.",
     },
     {
       id: "feature-5",
