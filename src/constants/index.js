@@ -26,7 +26,7 @@ import {
       imgUrl: '/work1.jpg',
       title: 'Admin Business Application',
       description:'Full Stack JavaScript application with React, Redux-Toolkit, Material UI, NodeJS, Express, OpenAI API implemented. Admin with JWT Auth, Products crud. Using OpenAI API you can learn coding or generate texts.',
-      link: "",
+      link: "https://ai-admin.vercel.app/",
       git:"https://github.com/slido/AI-Admin"
     },
     {
