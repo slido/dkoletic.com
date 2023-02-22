@@ -34,7 +34,7 @@ const ProjectsCard = ({
         <h2 className="mb-[10px] font-semibold sm:text-[32px] text-[24px]">
           {title}
         </h2>
-        <p className="font-normal text-[16px] leading-[20.16px] mb-[10px]">
+        <p className="font-normal text-[16px] leading-[20.16px] mb-[10px] whitespace-pre">
           {description}
         </p>
         <div className="flex w-[20%] justify-start mt-[10px]">
