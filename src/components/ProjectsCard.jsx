@@ -34,7 +34,7 @@ const ProjectsCard = ({
         <h2 className="mb-[10px] font-semibold sm:text-[32px] text-[24px]">
           {title}
         </h2>
-        <p className="font-normal text-[16px] leading-[20.16px] mb-[10px] whitespace-pre">
+        <p className="font-normal text-[16px] leading-[20.16px] mb-[10px] md:whitespace-pre ss:smallprojects">
           {description}
         </p>
         <div className="flex w-[20%] justify-start mt-[10px]">
@@ -43,7 +43,7 @@ const ProjectsCard = ({
               href={link}
               rel="noreferrer"
               target="_blank"
-              className="w-[50%] border-[#fff] border-solid p-[5px] mr-[10px] border-[1px] rounded-[10px] flex justify-center"
+              className="w-[50%] border-[#fff] border-solid p-[5px] mr-[10px] border-[1px] rounded-[10px] flex justify-center ss:w-[30px] xs:w-[60px]"
             >
               Web
             </a>
@@ -52,7 +52,7 @@ const ProjectsCard = ({
             href={git}
             rel="noreferrer"
             target="_blank"
-            className="w-[50%] border-[#fff] p-[5px] border-solid  border-[1px] rounded-[10px] flex justify-center"
+            className="w-[50%] border-[#fff] p-[5px] border-solid  border-[1px] rounded-[10px] flex justify-center  ss:w-[30px] xs:w-[60px]"
           >
             Git
           </a>

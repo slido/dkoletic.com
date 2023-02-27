@@ -150,6 +150,12 @@ body {
 
 @layer components {
 
+  .smallprojects {
+    overflow: hidden;
+    height: 100px;
+    white-space: pre-line;
+  }
+
 .canvas-xl { 
   height: 850px !important;
   position: relative !important;
