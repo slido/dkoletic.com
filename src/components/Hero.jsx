@@ -12,7 +12,7 @@ const Hero = () => {
         className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6`}
       >
         <div className="flex flex-row justify-between items-center w-full relative">
-          <h1 className="flex-1 font-poppins font-semibold  ss:text-[56px] md:text-[72px] ss:pl-[20px] ss:pr-[20px] ss:leading-[110%] ss:left[0] md:left-[100px] md:leading-[75px] absolute z-20 h-[200px] top-[30%] ss:bg-blue-gradient md:text-[white]">
+          <h1 className="flex-1 font-poppins font-semibold  ss:text-[56px] md:text-[72px] ss:pl-[20px] ss:pr-[20px] ss:leading-[110%] ss:left[0] md:left-[100px] md:leading-[150%] absolute z-20 h-[200px] top-[30%] ss:bg-blue-gradient md:text-[white]">
             <Typist
               typingDelay={100}
               loop={true}
