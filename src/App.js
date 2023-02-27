@@ -21,7 +21,7 @@ const App = () => (
       className={`bg-primary ${styles.paddingX} ${styles.flexCenter} lg:mt-[100px]`}
     >
       <div className="absolute z-[0] w-[60%] h-[60%] left-[-20%] top-[1700px] rounded-full blue__gradient bottom-40"></div>
-      <div className="absolute z-[0] w-[60%] h-[60%] right-[-20%] top-[2590px] rounded-full blue__gradient "></div>
+      <div className="absolute z-[0] w-[60%] h-[60%] md:right-[-20%] top-[2590px] rounded-full blue__gradient "></div>
       <div className={`${styles.boxWidth}`}>
         <About />
         <Projects />
