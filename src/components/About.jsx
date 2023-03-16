@@ -44,10 +44,10 @@ const About = () => (
         <img src="./io.jpg" alt="io" className="mb-[20px] rounded-[10px]" />
       </p>
       <p className={`${styles.paragraph}  mt-5`}>
-        I'm an Full Stack JavaScript Developer (Frontend Heavy) with over a
-        decade of experience in the field. Had the opportunity to work on a
-        variety of projects and technologies, which has given me a diverse skill
-        set and the ability to adapt to new challenges.
+        I'm an Senior Frontend / JavaScript Developer with over a decade of
+        experience in the field. Had the opportunity to work on a variety of
+        projects and technologies, which has given me a diverse skill set and
+        the ability to adapt to new challenges.
       </p>
       <p className={`${styles.paragraph} mt-5`}>
         My expertise lies in JavaScript, React, TypeScript, Node and have great
