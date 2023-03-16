@@ -47,7 +47,7 @@ const About = () => (
         I'm an Senior Frontend / JavaScript Developer with over a decade of
         experience in the field. Had the opportunity to work on a variety of
         projects and technologies, which has given me a diverse skill set and
-        the ability to adapt to new challenges.
+        allowed me to grow and develop as a developer.
       </p>
       <p className={`${styles.paragraph} mt-5`}>
         My expertise lies in JavaScript, React, TypeScript, Node and have great
